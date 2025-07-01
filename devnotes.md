@@ -16,6 +16,8 @@ curl -X POST -d '{
 -H 'Content-Type: application/json' -H "X-Goog-Api-Key: API_KEY_HERE" \
 -H "X-Goog-FieldMask: places.displayName" \
 https://places.googleapis.com/v1/places:searchNearby
+
+link: https://developers.google.com/maps/documentation/places/web-service/nearby-search
 ```
 
 # Stopping point
